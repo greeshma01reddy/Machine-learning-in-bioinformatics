@@ -18,7 +18,7 @@ Multilayer Perceptron (MLP)
 
 
 Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
-Model evaluation using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Confusion Matrix
+Model evaluation using Accuracy, Precision, Recall, F1-score, ROC AUC, and Confusion Matrix
 Learning curve analysis for underfitting vs overfitting detection
 Feature importance analysis using Random Forest
 Prototype deployment using Streamlit
@@ -36,7 +36,7 @@ Streamlit
 
 
 Results : 
-Among all evaluated models, Random Forest achieved the best performance with approximately 94% classification accuracy on the test dataset, demonstrating strong capability in learning complex non-linear RNA structural patterns. 
+Among all evaluated models, Random Forest achieved the best performance with approximately 94% classification accuracy on the test dataset, demonstrating strong capability in learning complex non linear RNA structural patterns. 
 
 
 Applications
